@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+  <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="hello-world-eclipse"/>
+  <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.example.HelloWorld"/>
+  <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=""/>
+  <booleanAttribute key="org.eclipse.jdt.launching.ORG_ECLIPSE_JDT_LAUNCHING_USE_MODULE_PATH" value="false"/>
+</launchConfiguration>
