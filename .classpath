@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
   <classpathentry kind="src" path="src/main/java"/>
-  <classpathentry kind="lib" path="/home/cys90/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/3.13.0/"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
   <classpathentry kind="output" path="target/classes"/>
 </classpath>
